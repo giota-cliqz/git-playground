@@ -1,1 +1,1 @@
-# git-playground
+# git-playground-demo
