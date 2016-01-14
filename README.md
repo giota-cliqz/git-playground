@@ -1,1 +1,3 @@
-# git-playground-demo
+# git-playground-foo
+Testing conflicts
+
