@@ -1,3 +1,3 @@
-# git-playground-testmeconflic
+#!i git-playground-testmeconflic
 Testing conflicts ???????
 Make some conflicts
