@@ -1,4 +1,3 @@
-# git-playground TEST TEST
-Testing conflicts ???????
-Make some conflicts
-AHMED !!!!
+# git-playground
+
+Well, this README needed some clean-up.
