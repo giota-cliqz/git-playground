@@ -1,4 +1,4 @@
 # git-playground
 
-Well, long time we haven't changed this file! Time to change it now! this README needed some clean up! :-)
+Well, long time we havent changed up this file!! Time to change! this README needed some clean up! :-)
 
