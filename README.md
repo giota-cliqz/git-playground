@@ -1,3 +1,3 @@
 # awesome-git-playground
 
-long time we haven't changed this file!! Time to change it right now! this README needed some clean up! :-(
+Well, let's see!!! no more conflicts:-) long time we haven't changed this file!!! Time to change it right now! this README needed some clean up! :-(
